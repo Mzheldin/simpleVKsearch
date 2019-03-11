@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndroidVKSample</string>
+    <string name="id">Введите id для поиска</string>
+    <string name="search">Search</string>
+    <string name="result">Result</string>
+    <string name="error_message">Произошла ошибка, попробуйте еще раз!</string>
+    <string name="back">Back</string>
+</resources>
